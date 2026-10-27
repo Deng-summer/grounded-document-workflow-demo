@@ -2,7 +2,7 @@
 
 An original, small portfolio demo of document chunking, lexical retrieval, evidence-linked drafting, and an optional LLM call. It uses invented sample content and contains no code, data, prompts, or configuration copied from a client or employer project.
 
-This **is not** the private AI tender platform described in my portfolio. That larger team project includes document parsing, knowledge retrieval, generation workflows, and review. This repository only demonstrates a few transferable implementation ideas in code.
+This **is not** the private AI tender platform described in my [product case study](https://github.com/Deng-summer/ai-bidding-platform-case-study). That larger team project includes document parsing, knowledge retrieval, generation workflows, and review. This repository only demonstrates a few transferable implementation ideas in code. The original platform source remains private because it includes confidential project material; separately reviewed, non-confidential examples may be released later.
 
 ## What it shows
 
